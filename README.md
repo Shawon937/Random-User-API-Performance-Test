@@ -8,7 +8,7 @@
 2. Stress Test
 
 ## How to run this project
-- clone this project
+- Clone this project
 - Run the .jmx file on jmeter
 
 ## Prerequisite
